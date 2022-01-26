@@ -1,0 +1,1 @@
+page replacment algorith (LRU - FIFO) on XV6 OS. to make page replacment algorithms we had to make swap algorithm to swap pages from memory to disk and from disk to memory
